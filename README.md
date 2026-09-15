@@ -3,7 +3,7 @@
 > Configurare un insieme di strumenti opensource che raccolga dati da varie sorgenti e ne permetta la riconciliazione, per alimentare un CMDB.
  
  
->**Strumenti di supporto utilizzati**
+# Strumenti di supporto utilizzati
 
 [Notepad++](https://notepad-plus-plus.org/) Editor di base
 
@@ -21,15 +21,15 @@ The database editor that deploys next to your data, not onto your laptop.
 
 
 
->**Strumenti  utilizzati**
+# Applicativi  utilizzati
 
-# ETL
+## ETL
 
 [Apache Airflow ](https://airflow.apache.org/)
 
 Apache Airflow® is a platform created by the community to programmatically author, schedule and monitor workflows.
 
-## Alternative
+### Alternative
 
 [Luigi ](https://github.com/spotify/luigi)
 
@@ -40,7 +40,7 @@ Luigi is a Python (3.10, 3.11, 3.12, 3.13, 3.14 tested) package that helps you b
 Azkaban is a distributed Workflow Manager, implemented at LinkedIn to solve the problem of Hadoop job dependencies. We had jobs that needed to run in order, from ETL jobs to data analytics products.
 
 
-# DATABASE
+## DATABASE
 [PostgreSQL](https://www.postgresql.org/)
 
 The World's Most Advanced Open Source Relational Database
