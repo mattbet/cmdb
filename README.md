@@ -5,7 +5,9 @@
  
 # Strumenti di supporto utilizzati
 
-[Notepad++](https://notepad-plus-plus.org/) Editor di base
+[Notepad++](https://notepad-plus-plus.org/) 
+
+Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several programming languages.
 
 [MD WYSIWYG Editor](https://chromewebstore.google.com/detail/md-wysiwyg-editor/elmdnkbmhoofobbpboiakienehhahcde) 
 
@@ -45,3 +47,5 @@ Azkaban is a distributed Workflow Manager, implemented at LinkedIn to solve the 
 
 The World's Most Advanced Open Source Relational Database
 
+
+```
