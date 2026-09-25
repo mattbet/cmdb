@@ -132,7 +132,7 @@ def estrai_e_carica_vms(**kwargs):
     print("✅ Database Postgres aggiornato.")
 
 with DAG(
-    dag_id='vcloud_pipeline_token_console',
+    dag_id='psn_vcloud_estrazione_vm',
     default_args=default_args,
 #    schedule_interval='@daily',
     schedule_interval=None,  # Disattiva la pianificazione automatica,
